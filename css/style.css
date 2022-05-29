@@ -204,8 +204,10 @@ h3,
 
 .email-link, .email-link:hover {
     color: #EF0D33;
+    text-decoration: none;
 }
 
 .copyright-section>a {
     color: rgb(170, 165, 165);
+    text-decoration: none;
 }
